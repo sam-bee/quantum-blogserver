@@ -15,8 +15,7 @@ key exchange mechanism. The webserver is for hosting static sites.
 
 ## Configuration
 
-The tool can be configured with a `.env` file, or with environment variables. See `[project-root]/config/.env.example
-for values.
+The tool can be configured with a `.env` file, or with environment variables. See `./config/.env.example` for values.
 
 ## Result
 
