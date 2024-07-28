@@ -22,6 +22,7 @@ The tool can be configured with a `.env` file, or with environment variables. Se
 Your static site should be being served using the `X25519Kyber768Draft00` cyphersuite. You can see that in Chrome dev
 tools here:
 
-![image info](./docs/screenshot-kyber.png)
+![A screenshot of Google Chrome developer tools, with the cyphersuite highlighted. It is
+X25519Kyber768Draft00](./docs/screenshot-kyber.png)
 
 That means you are using Post-Quantum Cryptography with Go 1.23rc2.
